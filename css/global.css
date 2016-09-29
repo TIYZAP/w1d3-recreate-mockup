@@ -1,0 +1,146 @@
+.clearfix{
+  overflow: auto;
+}
+*{
+  box-sizing: border-box;
+}
+
+.navigation{
+  padding-left: 50px;
+}
+
+#navbar{
+  padding-left: 1px;
+}
+
+#boxheader{
+  color: white;
+  font-size: 25px;
+  padding-top: 40px;
+  margin: 0;
+}
+
+#money{
+  color: white;
+  font-size: 100px;
+  margin: 0;
+}
+
+#boxfooter{
+  color: #A7C8A7;
+  font-size: 25px;
+  margin: 0;
+}
+
+#boxheader2{
+  color: white;
+  font-size: 25px;
+  padding-top: 40px;
+  margin: 0;
+}
+
+#money2{
+  color: white;
+  font-size: 100px;
+  margin: 0;
+}
+
+#boxfooter2{
+  color: #A7C8A7;
+  font-size: 25px;
+  margin: 0;
+}
+
+#boxheader3{
+  color: white;
+  font-size: 25px;
+  padding-top: 40px;
+  margin: 0;
+}
+
+#money3{
+  color: white;
+  font-size: 100px;
+  margin: 0;
+}
+
+#boxfooter3{
+  color: #A7C8A7;
+  font-size: 25px;
+  margin: 0;
+}
+
+header {
+    background: url(../img/imgbanner.jpg);
+    padding: 50px;
+    text-align: center;
+    color: white;
+    margin-bottom: 25px;
+}
+
+.center{
+  text-align: center;
+}
+
+.greenbox{
+  width: 250px;
+  height: 250px;
+  background-color: #519251;
+  display:block;
+}
+
+.bluebox{
+  width: 250px;
+  height: 250px;
+  background-color: #2C4985;
+  display: block;
+}
+
+.blackbox{
+  width: 250px;
+  height: 250px;
+  background-color: #111111;
+  display: block;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 250px;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+.button{
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  border-radius: 15px;
+  padding: 7px 7px;
+  text-align: center;
+  cursor:pointer;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+.price-container{
+display: inline-block;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.content{
+    width:50%;
+    display: inline-block;
+    float: left;
+    padding: 20px;
+}

@@ -1,0 +1,23 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 250px;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+.button{
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  border-radius: 15px;
+  padding: 7px 7px;
+  text-align: center;
+  cursor:pointer;
+  display: inline-block;
+  font-size: 16px;
+}
